@@ -5,14 +5,6 @@ This project implements a sentiment analysis system using a fine-tuned transform
 - A backend API built with FastAPI to serve the sentiment analysis.
 - A simple React UI for user interaction.
 
-## Table of Contents
-- [Installation](#installation)
-- [Running the Notebook](#running-the-notebook)
-- [Running the Backend API](#running-the-backend-api)
-- [Using the Endpoints](#using-the-endpoints)
-- [UI Explanation](#ui-explanation)
-- [License](#license)
-
 ## Installation
 
 ### Prerequisites
