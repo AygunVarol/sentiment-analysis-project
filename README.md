@@ -35,6 +35,6 @@ This project implements a sentiment analysis system using a fine-tuned transform
 
 4. Run UI Locally
 
-  ```bash
-   python reactUIdesign.py
-   ```
+     ```bash
+      python reactUIdesign.py
+      ```
