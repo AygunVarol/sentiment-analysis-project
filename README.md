@@ -5,6 +5,8 @@ This project implements a sentiment analysis system using a fine-tuned transform
 - A backend API built with FastAPI to serve the sentiment analysis.
 - A simple React UI for user interaction.
 
+## [HuggingFace Model](https://huggingface.co/Aygun/finetuned-distilbert-imdb)
+
 ## Installation
 
 ### Prerequisites
